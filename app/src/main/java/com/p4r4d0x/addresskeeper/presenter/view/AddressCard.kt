@@ -51,7 +51,7 @@ class AddressProvider : PreviewParameterProvider<AddressBO> {
         get() = listOf(
             AddressBO(
                 id = "1234",
-                "C/Viloria de la Rioja 20",
+                "C/",
                 emptyList(),
                 listOf(
                     ServiceBO("Santander"),

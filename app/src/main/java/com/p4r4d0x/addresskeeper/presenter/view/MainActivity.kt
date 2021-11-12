@@ -33,13 +33,13 @@ class MainActivity : AppCompatActivity() {
         Column() {
             AddressCard(AddressBO(
                 id = "1234",
-                "C/Viloria de la Rioja 20",
+                "C/",
                 emptyList(),
                 emptyList()
             ))
             AddressCard(AddressBO(
                 id = "1234",
-                "C/Viloria de la Rioja 20",
+                "C/",
                 emptyList(),
                 emptyList()
             ))
